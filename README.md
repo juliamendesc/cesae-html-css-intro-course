@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Projeto de Formação - HTML e CSS
 
 Este guia ajudará você a executar o projeto no seu computador. Siga os passos abaixo:
 
