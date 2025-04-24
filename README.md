@@ -1,41 +1,41 @@
-# Project Name
+# Nome do Projeto
 
-This guide will help you run the project on your computer. Follow the steps below:
+Este guia ajudará você a executar o projeto no seu computador. Siga os passos abaixo:
 
-## Requirements
+## Requisitos
 
-1. A computer with internet access.
-2. Visual Studio Code (VS Code) installed. You can download it from [here](https://code.visualstudio.com/).
-3. The Live Server extension installed in VS Code. Learn how to install extensions [here](https://code.visualstudio.com/docs/editor/extension-marketplace).
-4. Google Chrome browser installed. You can download it from [here](https://www.google.com/chrome/).
+1. Um computador com acesso à internet.
+2. Visual Studio Code (VS Code) instalado. Você pode baixá-lo [aqui](https://code.visualstudio.com/).
+3. A extensão Live Server instalada no VS Code. Saiba como instalar extensões [aqui](https://code.visualstudio.com/docs/editor/extension-marketplace).
+4. Navegador Google Chrome instalado. Você pode baixá-lo [aqui](https://www.google.com/chrome/).
 
-## Steps to Run the Project
+## Passos para Executar o Projeto
 
-1. **Download the Project Files**
+1. **Baixar os Arquivos do Projeto**
 
-   - Click on the download link or button provided to get the project files.
-   - Save the files in a folder on your computer.
+   - Clique no link ou botão de download fornecido para obter os arquivos do projeto.
+   - Salve os arquivos em uma pasta no seu computador.
 
-2. **Open the Project in VS Code**
+2. **Abrir o Projeto no VS Code**
 
-   - Open Visual Studio Code.
-   - Click on `File > Open Folder` and select the folder where you saved the project files.
+   - Abra o Visual Studio Code.
+   - Clique em `Arquivo > Abrir Pasta` e selecione a pasta onde você salvou os arquivos do projeto.
 
-3. **Start the Live Server**
+3. **Iniciar o Live Server**
 
-   - In VS Code, right-click on the main HTML file (e.g., `index.html`) in the file explorer.
-   - Select `Open with Live Server` from the context menu.
-   - This will open the project in your default browser (ensure Chrome is set as your default browser).
+   - No VS Code, clique com o botão direito no arquivo HTML principal (por exemplo, `index.html`) no explorador de arquivos.
+   - Selecione `Abrir com Live Server` no menu de contexto.
+   - Isso abrirá o projeto no seu navegador padrão (certifique-se de que o Chrome esteja configurado como navegador padrão).
 
-4. **View the Project in Chrome**
-   - If the project doesn't open in Chrome automatically, copy the URL from the browser that opens and paste it into Chrome.
-   - You should now see the project running in the Chrome browser.
+4. **Visualizar o Projeto no Chrome**
+   - Se o projeto não abrir automaticamente no Chrome, copie a URL do navegador que foi aberto e cole no Chrome.
+   - Agora você deve ver o projeto rodando no navegador Chrome.
 
-## Troubleshooting
+## Solução de Problemas
 
-- Ensure you have installed both VS Code and the Live Server extension.
-- Check if Chrome is installed and set as your default browser.
-- Restart VS Code or your computer if something doesn’t work.
-- Contact the project creator for help if needed.
+- Certifique-se de ter instalado tanto o VS Code quanto a extensão Live Server.
+- Verifique se o Chrome está instalado e configurado como seu navegador padrão.
+- Reinicie o VS Code ou o computador se algo não funcionar.
+- Entre em contato com o criador do projeto para obter ajuda, se necessário.
 
-Enjoy using the project!
+Aproveite o uso do projeto!
