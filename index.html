@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Projeto de Formação - HTML e CSS</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Bem-vindo ao Curso de Introdução ao HTML e CSS</h1>
+      <nav>
+        <ul>
+          <li><a href="sobre.html">Sobre</a></li>
+          <li><a href="exercicios.html">Exercícios</a></li>
+          <li><a href="contato.html">Contato</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <section class="home">
+      <h2>Início do Curso</h2>
+      <p>
+        Este curso tem como objetivo ensinar os fundamentos do HTML e CSS.
+        Navegue pelas páginas para aprender mais.
+      </p>
+    </section>
+
+    <footer>
+      <p>&copy; 2025 Projeto de Formação - Todos os direitos reservados.</p>
+    </footer>
+  </body>
+  <script>
+    // Seleciona o formulário e adiciona um ouvinte de evento para o envio
+    const formulario = document.querySelector("form");
+
+    formulario.addEventListener("submit", function (event) {
+      event.preventDefault(); // Evita que a página seja recarregada
+      formulario.reset(); // Limpa o formulário após o envio
+      alert("Formulário enviado e limpo!");
+    });
+  </script>
+</html>
